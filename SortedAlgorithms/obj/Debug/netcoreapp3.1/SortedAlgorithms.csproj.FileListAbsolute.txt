@@ -1,0 +1,10 @@
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/bin/Debug/netcoreapp3.1/SortedAlgorithms.deps.json
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/bin/Debug/netcoreapp3.1/SortedAlgorithms.runtimeconfig.json
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/bin/Debug/netcoreapp3.1/SortedAlgorithms.runtimeconfig.dev.json
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/bin/Debug/netcoreapp3.1/SortedAlgorithms.dll
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/bin/Debug/netcoreapp3.1/SortedAlgorithms.pdb
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/obj/Debug/netcoreapp3.1/SortedAlgorithms.csprojAssemblyReference.cache
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/obj/Debug/netcoreapp3.1/SortedAlgorithms.AssemblyInfoInputs.cache
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/obj/Debug/netcoreapp3.1/SortedAlgorithms.AssemblyInfo.cs
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/obj/Debug/netcoreapp3.1/SortedAlgorithms.dll
+/Users/tyhuang/Desktop/Algorithms/SortedAlgorithms/obj/Debug/netcoreapp3.1/SortedAlgorithms.pdb
