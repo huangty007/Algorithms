@@ -59,6 +59,9 @@ namespace SortedAlgorithms{
         }
 
         public void TwoWayInsertion(){
+            if(this.nums.Length==0 || this.nums==null){
+                throw new Exception ("nums not exist!");
+            }
             
         }
     }
