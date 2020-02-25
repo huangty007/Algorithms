@@ -62,7 +62,7 @@ namespace SortedAlgorithms{
             if(this.nums.Length==0 || this.nums==null){
                 throw new Exception ("nums not exist!");
             }
-            
+            int[] cNums=new int[this.Nums.Length];
         }
     }
 }
