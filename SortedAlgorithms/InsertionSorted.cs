@@ -58,5 +58,8 @@ namespace SortedAlgorithms{
             }
         }
 
+        public void TwoWayInsertion(){
+            
+        }
     }
 }
