@@ -16,7 +16,7 @@ namespace SortedAlgorithms{
             }
         }
 
-        //first idea:Straight Insertion Algorithm O(n^2)
+        //first idea:Simple Straight Insertion Algorithm O(n^2)
         public void StraightInsertion(){
             if(this.nums.Length==0 || this.nums==null){
                 throw new Exception ("nums not exist!");
